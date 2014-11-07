@@ -356,8 +356,6 @@ public class Messages extends NLS {
 
     public static String RoutingRuleMainPage2_ExecuteTriggerSuccess;
 
-    public static String RoutingRuleMainPage2_fail;
-
     public static String RoutingRuleMainPage2_NoRecordSelected;
 
     public static String RoutingRuleMainPage2_noTriggerExecuted;
